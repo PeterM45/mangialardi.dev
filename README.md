@@ -2,6 +2,10 @@
 
 My personal portfolio website built with modern web technologies. Clean, fast, and uniquely designed to showcase my work and skills.
 
+## Preview
+
+![Preview](public/screenshot.png)
+
 ## ✨ Features
 
 - ⚡️ Built with Astro for blazing fast performance
