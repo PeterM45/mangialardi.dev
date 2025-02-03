@@ -11,7 +11,7 @@ const posts = (await getCollection("blog")).sort(
 );
 ---
 
-<Layout title="Token - Astro + Tailwind Portfolio Template">
+<Layout title="Peter | Home">
   <Hero />
   <Section
     title="My Posts"
@@ -44,7 +44,7 @@ const posts = (await getCollection("blog")).sort(
       <div
         class="max-w-4xl text-xl md:text-lg opacity-90 text-center justify-evenly"
       >
-        <p>{ABOUT_ME}</p>
+        <p set:html={ABOUT_ME} />
       </div>
     </div>
   </Section>
