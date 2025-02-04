@@ -31,13 +31,13 @@ git clone https://github.com/mangialardi/mangialardi.dev.git
 2. Install dependencies:
 
 ```bash
-pnpm install
+npm install
 ```
 
 3. Start the development server:
 
 ```bash
-pnpm run dev
+npm run dev
 ```
 
 4. Open your browser and navigate to `http://localhost:2222` to see the website.
