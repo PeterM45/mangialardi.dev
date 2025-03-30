@@ -25,7 +25,7 @@ My personal portfolio website built with modern web technologies. Clean, fast, a
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/mangialardi/mangialardi.dev.git
+git clone https://github.com/PeterM45/mangialardi.dev.git
 ```
 
 2. Install dependencies:
